@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 7px;
+    margin: 5px;
+font: 10px;
+}
+body{
+    background-image: url(Image/forma-ugly-fon.jpg);
+    background-size: 280%;
+background-position: 400px 0px;
+background-position: -30px 40px;
+
+
+}
+div.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+    border-radius: 2px solid
+    ;
+
+
+}
+
+.register{
+    text-align: center;
+    color: antiquewhite;
+    padding: 20px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-size: 19px;
+    border: 1px solid rgb(red, green, blue);
+    background-color: rgb(48, 48, 47);
+    box box-shadow: 2px 2px 10px rgb(0,0,0);
+
+#regis{
+
+margin-bottom: 50px;
+color: rgb(142, 142, 183);
+
+}
+
+#gender{
+    padding-top: 60px;
+}
